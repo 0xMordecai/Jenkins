@@ -1,2 +1,2 @@
 # Jenkins
-On-premises CI-server
+On-premises CI-server used by Devops engineers
